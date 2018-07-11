@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1531310494 source:d:\##bustamante\numeronatural\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1531310494 d:\##bustamante\numeronatural\arraylist.h
+
+1531318168 source:d:\##bustamante\numeronatural\builder.c
+	"Builder.h"
+	<stdio.h>
+
+1531317323 d:\##bustamante\numeronatural\builder.h
+	"ArrayList.h"
+
+1531318346 source:d:\##bustamante\numeronatural\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Parser.h"
+
+1531310494 d:\##bustamante\numeronatural\parser.h
+	<stdio.h>
+	"ArrayList.h"
+	"Builder.h"
+
+1531317707 source:d:\##bustamante\numeronatural\parser.c
+	"Parser.h"
+	<string.h>
+
